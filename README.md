@@ -168,7 +168,7 @@ Pull requests, issues, and suggestions are always welcome!
 
 4. Use `/mnt/c/...` paths to access Windows files:  
    ```bash
-   ./vComp.sh "/mnt/c/Users/YourUsername/input.mkv" "/mnt/c/Users/YourUsername/output.mp4" 480p
+   ./vComp.sh "/mnt/c/Users/YourUsername/input.mp4" "/mnt/c/Users/YourUsername/output.mp4" 480p
    ```
 
 ---
@@ -196,7 +196,7 @@ Pull requests, issues, and suggestions are always welcome!
 
 5. Run the script using Git Bash-style paths:  
    ```bash
-   ./vComp.sh "/c/Users/YourUsername/input.mkv" "/c/Users/YourUsername/output.mp4" 480p
+   ./vComp.sh "/c/Users/YourUsername/input.mp4" "/c/Users/YourUsername/output.mp4" 480p
    ```
 
 ---
