@@ -62,13 +62,13 @@ sudo pacman -S ffmpeg yt-dlp
 ### Compress a local video to 480p
 
 ```bash
-./DiscordCompression.sh "/path/to/input.mp4" "/path/to/output.mp4" 480p
+./vComp.sh "/path/to/input.mp4" "/path/to/output.mp4" 480p
 ```
 
 ### Download and compress a YouTube video to 720p
 
 ```bash
-./DiscordCompression.sh "/path/to/save/video.mp4" "/path/to/output.mp4" 720p -d "https://youtube.com/watch?v=VIDEOID"
+./vComp.sh "/path/to/save/video.mp4" "/path/to/output.mp4" 720p -d "https://youtube.com/watch?v=VIDEOID"
 ```
 
 ---
