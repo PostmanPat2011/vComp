@@ -37,7 +37,7 @@ sudo pacman -S ffmpeg yt-dlp
 ## Usage
 
 ```bash
-./DiscordCompression.sh <input_file> <output_file> <resolution> [options]
+./vComp.sh <input_file> <output_file> <resolution> [options]
 ```
 
 ### Arguments
